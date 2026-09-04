@@ -38,7 +38,7 @@ research skills，供學習 & 參考使用。
 - thesis-topic-navigator： 論文選題輔導
 	- 用途：
 		- 論文選題輔導（Thesis Topic Navigator）——協助碩博士生從興趣、工作或生活痛點出發，逐步收斂出一句清晰、可檢證、範圍合理的研究題目，並完成初步可行性評估。用於「還沒有題目」「只有模糊方向」「題目可不可行」「範圍會不會太大」這類選題階段的請求。
-- 用法範例：
-	- 你可以這麽使用，假設你有一個存放研究題目、草稿的目錄： {thesis_draft_folder}
-	- 一個最簡單的起始句例如：
-	  `/thesis-topic-navigator @{thesis_draft_folder/論文參考_indexfile} 是我目前想做研究的 entry ，不知道你有什麼想法？`
+	- 用法範例：
+		- 你可以這麽使用，假設你有一個存放研究題目、草稿的目錄： {thesis_draft_folder}
+		- 一個最簡單的起始句例如：
+		  `/thesis-topic-navigator @{thesis_draft_folder/論文參考_indexfile} 是我目前想做研究的 entry ，不知道你有什麼想法？`
